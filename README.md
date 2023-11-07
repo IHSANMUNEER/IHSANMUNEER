@@ -2,11 +2,9 @@
 <h3 align="center">A passionate full stack web developer and react native mobile app developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">
 
-<p align="left"> <a href="https://twitter.com/@abii_sidd" target="blank"><img src="https://img.shields.io/twitter/follow/@abii_sidd?logo=twitter&style=for-the-badge" alt="@abii_sidd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ihsan_Muneer95" target="blank"><img src="https://img.shields.io/twitter/follow/@abii_sidd?logo=twitter&style=for-the-badge" alt="@Ihsan Muneer" /></a> </p>
 
 - 🌱 I’m currently learning **MERN, DevOps**
-
-- 👨‍💻 All of my projects are available at <a href="https://ab-sidd.vercel.app/">ab-sidd.vercel.app</a>
 
 - 💬 Ask me about **ReactJS, NodeJS, MERN**
 
