@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihsan Muneer</h1>
 <h3 align="center">A passionate full stack web developer and react native mobile app developer from Pakistan</h3
 
-<p align="left"> <a href="https://twitter.com/Ihsan_Muneer95" target="blank"><img src="https://img.shields.io/twitter/follow/@abii_sidd?logo=twitter&style=for-the-badge" alt="@Ihsan Muneer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ihsan_Muneer95" target="blank"><img src="https://img.shields.io/twitter/follow/@Ihsan_Muneer95?logo=twitter&style=for-the-badge" alt="@Ihsan Muneer" /></a> </p>
 
 - 🌱 I’m currently learning **MERN, DevOps**
 
