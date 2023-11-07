@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihsan Muneer</h1>
 <h3 align="center">A passionate full stack web developer and react native mobile app developer from Pakistan</h3>
 
-- 💬 Ask me about **ReactJS, NodeJS, MERN**
+- 💬 Ask me about **NodeJS, MERN ,Unity, Computer Vision, React Native, Neural Network, Java**
 - 📫 How to reach me **ihsanmuneer288@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
